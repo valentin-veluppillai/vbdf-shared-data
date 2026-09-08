@@ -1,0 +1,10 @@
+# Dataset List
+## Sythetic drone poses
+
+https://filesender.switch.ch/filesender2/?s=download&token=41ad089e-e093-433f-88fa-d4b3f166f109
+
+Undistorted, small number of backgrounds, varied views.
+
+
+
+
