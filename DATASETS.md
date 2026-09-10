@@ -21,3 +21,6 @@ static video: https://filesender.switch.ch/filesender2/?s=download&token=8b398f2
 
 ## Real-time photos (labeled)
 https://filesender.switch.ch/filesender2/?s=download&token=46acc00e-c7f4-43b3-99db-7e66abd08967
+
+## Hand-labeled data
+Seperated by conditionbs: https://filesender.switch.ch/filesender2/?s=download&token=8e09e844-8490-4fdf-bbfe-cb7a08890791
