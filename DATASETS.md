@@ -8,6 +8,10 @@ https://filesender.switch.ch/filesender2/?s=download&token=41ad089e-e093-433f-88
 ### vbdf_v2
 2500 train, 500 val, 100 test. Distorted with reasonably accurate modeling of double sphere, set of 20 random hdri environments, light randomization on lighting, navigation lights, random views biased to edge on: https://filesender.switch.ch/filesender2/?s=download&token=645f16ff-3126-49d5-8450-7719fa6764f3
 
+### vbdf_v3
+2500 train, 500 val, 100 test. Distorted with reasonably accurate modeling of double sphere, set of 20 random hdri environments and coco random backgrounds 50/50, light randomization on lighting, navigation lights, 50/50 random front lights, random views biased to edge on:
+https://filesender.switch.ch/filesender2/?s=download&token=0b1eca7d-3b2d-4918-b85a-567c54b71e41
+
 ## Drone Videos
 
 https://filesender.switch.ch/filesender2/?s=download&token=c9f45dbf-007a-4c19-901c-24bb8d6471e7
