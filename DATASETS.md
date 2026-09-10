@@ -12,6 +12,11 @@ https://filesender.switch.ch/filesender2/?s=download&token=41ad089e-e093-433f-88
 2500 train, 500 val, 100 test. Distorted with reasonably accurate modeling of double sphere, set of 20 random hdri environments and coco random backgrounds 50/50, light randomization on lighting, navigation lights, 50/50 random front lights, random views biased to edge on:
 https://filesender.switch.ch/filesender2/?s=download&token=0b1eca7d-3b2d-4918-b85a-567c54b71e41
 
+### real_v2
+
+Hand labeled data, ca. 8000, split 0.8:0.1:0.1
+https://filesender.switch.ch/filesender2/?s=download&token=ae1921ba-91f0-4591-9ee5-6c69d3ab1a86
+
 ## Drone Videos
 
 https://filesender.switch.ch/filesender2/?s=download&token=c9f45dbf-007a-4c19-901c-24bb8d6471e7
