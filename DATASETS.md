@@ -1,9 +1,12 @@
 # Dataset List
 ## Sythetic drone poses
 
+### ?
+Undistorted, small number of backgrounds, varied views:
 https://filesender.switch.ch/filesender2/?s=download&token=41ad089e-e093-433f-88fa-d4b3f166f109
 
-Undistorted, small number of backgrounds, varied views.
+### vbdf_v2
+2500 train, 500 val, 100 test. Distorted with reasonably accurate modeling of double sphere, set of 20 random hdri environments, light randomization on lighting, navigation lights, random views biased to edge on: https://filesender.switch.ch/filesender2/?s=download&token=645f16ff-3126-49d5-8450-7719fa6764f3
 
 ## Drone Videos
 
