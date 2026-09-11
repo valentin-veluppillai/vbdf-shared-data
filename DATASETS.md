@@ -29,3 +29,4 @@ https://filesender.switch.ch/filesender2/?s=download&token=46acc00e-c7f4-43b3-99
 
 ## Hand-labeled data
 Seperated by conditionbs: https://filesender.switch.ch/filesender2/?s=download&token=8e09e844-8490-4fdf-bbfe-cb7a08890791
+From the hall: https://filesender.switch.ch/filesender2/?s=download&token=ad958cfd-63ee-4667-9c31-3c9a1ce2e839
